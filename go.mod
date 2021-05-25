@@ -1,4 +1,4 @@
-module gitlab.com/dnsrv/gogee
+module github.com/dnsrv/gogee
 
 go 1.14
 
