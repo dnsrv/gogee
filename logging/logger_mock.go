@@ -1,6 +1,5 @@
 package logging
 
-//goland:noinspection GoUnusedExportedFunction
 func NewLoggerMock() *LoggerMock {
 	return &LoggerMock{
 		CallsCount:   0,

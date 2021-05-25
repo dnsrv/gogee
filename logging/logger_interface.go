@@ -1,8 +1,8 @@
 package logging
 
 const (
-	LogLevelPrefixInfo = "[info]"
-	LogLevelPrefixWarn = "[warn]"
+	LogLevelPrefixInfo  = "[info]"
+	LogLevelPrefixWarn  = "[warn]"
 	LogLevelPrefixFatal = "[fatal]"
 )
 
